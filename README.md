@@ -50,7 +50,7 @@ Sales tripled from $87.5M (2019) to $598.9M (2021), which looks incredible on th
 | United Kingdom | $34.2M | **45.1%** |
 | Germany | $12.0M | 26.2% ⚠️ |
 
-India drives the most revenue, but its margin is only **32%**. Smaller markets like New Zealand and Japan are far more profitable per dollar — a key insight for resource allocation decisions.
+India drives the most revenue, but its margin is only **32%**. Smaller markets like New Zealand and Japan are far more profitable which suggests an opportunity to improve pricing or cost efficiency in larger markets.
 
 ---
 
