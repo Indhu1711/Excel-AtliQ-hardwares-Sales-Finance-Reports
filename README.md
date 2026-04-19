@@ -64,8 +64,6 @@ The company fell short of its sales target by **−$54.9M (−9.2%)** overall. N
 | Poland | −18.1% |
 | Canada | −14.5% |
 | Spain | −14.1% |
-| USA | −$10.2M |
-| India | −$9.6M |
 
 > This isn't a one-market problem — it points to something systemic in planning or execution.
 
