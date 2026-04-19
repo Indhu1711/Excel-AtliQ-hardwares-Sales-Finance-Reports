@@ -77,7 +77,8 @@ The company fell short of its sales target by **−$54.9M (−9.2%)** overall. N
 | AtliQ Exclusive | $18.4M |
 | Flipkart | $9.9M |
 
-The top 2 customers account for **~26% of India's total revenue** — a concentration risk worth flagging in any real business review.
+The top 2 customers account for **~26% of India's total revenue** 
+A large portion of India’s revenue comes from a few customers, which creates risk if any of them reduce orders.
 
 ---
 
