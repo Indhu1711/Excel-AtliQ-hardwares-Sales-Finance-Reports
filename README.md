@@ -29,8 +29,7 @@ AtliQ Hardwares sells computer hardware across **23 global markets**. This proje
 | Gross Margin | $36.2M | $73.3M | $218.2M |
 | GM % | 41.4% | 37.3% | 36.4% |
 
-> 📌 Revenue grew **~3x in 2 years** — but gross margin % fell every single year. That's the tension this project investigates.
-
+> 📌 Revenue grew **~3x in 2 years** — but gross margin % fell every single year. It is likely due to higher costs or heavy discounting to drive sales
 ---
 
 ## 🔍 Key Business Findings
