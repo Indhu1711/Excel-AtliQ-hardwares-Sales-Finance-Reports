@@ -65,7 +65,7 @@ The company fell short of its sales target by **−$54.9M (−9.2%)** overall. N
 | Canada | −14.5% |
 | Spain | −14.1% |
 
-> This isn't a one-market problem — it points to something systemic in planning or execution.
+> The company missed its sales target in every market, indicating a company-wide issue—likely due to poor planning, unrealistic targets, or weak execution.
 
 ---
 
