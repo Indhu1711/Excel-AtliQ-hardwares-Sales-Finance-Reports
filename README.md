@@ -82,8 +82,7 @@ The top 2 customers account for **~26% of India's total revenue**. A large porti
 
 ### 5. Seasonal patterns are visible in monthly data
 
-FY 2021 monthly sales ranged from **$44.8M (Sep) to $43.0M (Aug)**, with consistent peaks in **Q1 & Q2 (Oct–Dec)** — suggesting strong seasonality that can inform inventory and campaign planning.
-
+Sales show a consistent seasonal pattern across all three Fiscal years (2019 - 2021), peaking in late Q1 & early Q2 (Oct–Dec), while remaining relatively stable across other quarters. This indicates strong seasonality that can be used to plan inventory, staffing, and marketing more effectively
 ---
 
 ## 📄 Reports Built
@@ -93,7 +92,7 @@ FY 2021 monthly sales ranged from **$44.8M (Sep) to $43.0M (Aug)**, with consist
 | 📋 P&L by Fiscal Year | Net Sales, COGS, Gross Margin across FY 2019–2021 |
 | 📅 P&L by Months | Monthly breakdown with quarter view & YoY growth % |
 | 🌍 P&L by Markets | Market-level profitability with GM% comparison |
-| 🎯 Market Performance vs Target | All 23 markets — target gap & % miss |
+| 🎯 Market Performance vs Target | Target gap and % miss across 23 markets |
 | 👥 Customer Performance Report | 3-year customer sales (India market) |
 
 ---
