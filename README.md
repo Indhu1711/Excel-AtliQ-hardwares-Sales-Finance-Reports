@@ -132,10 +132,10 @@ Raw Data → Power Query (Clean & Transform) → Power Pivot (Data Model) → DA
 
 | File | Link |
 |---|---|
-| Customer Performance Report | [View →](#) |
-| Market Performance vs Target | [View →](#) |
+| Customer Performance Report | [View →](https://github.com/Indhu1711/Excel-AtliQ-hardwares-Sales-Finance-Reports/blob/main/Customer%20Performance%20Report.pdf) |
+| Market Performance vs Target | [View →](https://github.com/Indhu1711/Excel-AtliQ-hardwares-Sales-Finance-Reports/blob/main/Market%20Performance%20vs%20Target.pdf) |
 | P&L by Fiscal Year | [View →](https://github.com/Indhu1711/Excel-AtliQ-hardwares-Sales-Finance-Reports/blob/main/P%20%26%20L%20statement%20by%20Fiscal%20Year.pdf) |
-| P&L by Months | [View →](#) |
+| P&L by Months | [View →](https://github.com/Indhu1711/Excel-AtliQ-hardwares-Sales-Finance-Reports/blob/main/P%20%26%20L%20by%20Months.pdf) |
 | P&L by Markets | [View →](https://github.com/Indhu1711/Excel-AtliQ-hardwares-Sales-Finance-Reports/blob/main/P%20%26%20L%20for%20Markets.pdf) |
 
 ---
