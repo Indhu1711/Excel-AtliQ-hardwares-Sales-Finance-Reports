@@ -83,6 +83,7 @@ The top 2 customers account for **~26% of India's total revenue**. A large porti
 ### 5. Seasonal patterns are visible in monthly data
 
 Sales show a consistent seasonal pattern across all three Fiscal years (2019 - 2021), peaking in late Q1 & early Q2 (Oct–Dec), while remaining relatively stable across other quarters. This indicates strong seasonality that can be used to plan inventory, staffing, and marketing more effectively
+
 ---
 
 ## 📄 Reports Built
