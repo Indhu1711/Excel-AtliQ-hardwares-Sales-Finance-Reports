@@ -10,13 +10,13 @@
 
 ## 🧩 What This Project Is About
 
-AtliQ Hardwares sells computer hardware across **23 global markets**. This project builds a full Sales & Finance reporting system in Excel — covering **3 fiscal years (2019–2021)** — to answer the questions a real business analyst would face:
+AtliQ Hardwares sells computer hardwares across **23 global markets**. This project builds a full Sales & Finance reporting system in Excel, covering **3 fiscal years (2019–2021)**, to analyze business performance and key trends.
 
 - Where is the revenue coming from?
-- Why is profitability declining despite rapid growth?
-- Which markets are falling short of targets — and by how much?
+- Why is profitability declining despite strong growth?
+- Which markets are missing targets — and by how much?
 
-> **The goal wasn't just to build reports — it was to find the story inside the numbers.**
+> **The focus is not just reporting, but identifying actionable insights from the data.**
 
 ---
 
